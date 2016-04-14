@@ -1,0 +1,9 @@
+# CIT Code Portfolio
+
+## My CIT websites on UOregon.edu
+
+[My CIT 110 Code Portfolio](http://pages.uoregon.edu/kileyf/110/)
+
+[My CIT 111 Code Portfolio](http://pages.uoregon.edu/kileyf/111/)
+
+[My CIT 281 Code Portfolio](http://pages.uoregon.edu/kileyf/281/)
